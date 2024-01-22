@@ -7,4 +7,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(PAFI_1 main.cpp
         src/factorial.cpp
-        src/factorial.h)
+        src/factorial.h
+        src/producto.cpp
+        src/producto.h)
